@@ -28,7 +28,7 @@
         "address_number": "1",
         "address_country": "default country 1",
         "address_state": "default state 1",
-        "address_city": "default city 1"
+        "address_city": "10"
       }
     },
     {
@@ -58,7 +58,7 @@
         "address_number": "2",
         "address_country": "default country 2",
         "address_state": "default state 2",
-        "address_city": "default city 2"
+        "address_city": "20"
       }
     },
     {
@@ -88,7 +88,7 @@
         "address_number": "3",
         "address_country": "default country 3",
         "address_state": "default state 3",
-        "address_city": "default city 3"
+        "address_city": "30"
       }
     }
   ],
