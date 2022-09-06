@@ -1,96 +1,18 @@
-{
-  "status": "200",
-  "users": [
-    {
-      "user_id": 1,
-      "user_name": "Default user 1",
-      "user_phone_number": "11 2222 3333",
-      "user_created_at_formated": "2022-8-22 18:30",
-      "user_created_at": {
-        "day": 22,
-        "month": 8,
-        "year": 2022,
-        "hour": 18,
-        "minute": 30
-      },
-      "user_updated_at_formated": "2022-8-22 18:30",
-      "user_updated_at": {
-        "day": 22,
-        "month": 8,
-        "year": 2022,
-        "hour": 18,
-        "minute": 30
-      },
-      "user_address_id": 10,
-      "user_address": {
-        "address_street": "default street 1",
-        "address_district": "default district 1",
-        "address_number": "1",
-        "address_country": "default country 1",
-        "address_state": "default state 1",
-        "address_city": "default city 1"
-      }
+[
+  {
+    "name": "Matheus",
+    "phone": "00 11 22223333",
+    "country": "Brazil",
+    "occupation": "Developer",
+    "created_at": "2022-09-05 21:24:39.270121",
+    "updated_at": "2022-09-05 21:24:39.270121",
+    "github_info": {
+      "name": "euMts",
+      "url": "https://github.com/euMts/"
     },
-    {
-      "user_id": 2,
-      "user_name": "Default user 2",
-      "user_phone_number": "11 3333 4444",
-      "user_created_at_formated": "2022-8-22 18:31",
-      "user_created_at": {
-        "day": 22,
-        "month": 8,
-        "year": 2022,
-        "hour": 18,
-        "minute": 31
-      },
-      "user_updated_at_formated": "2022-8-22 18:31",
-      "user_updated_at": {
-        "day": 22,
-        "month": 8,
-        "year": 2022,
-        "hour": 18,
-        "minute": 31
-      },
-      "user_address_id": 2,
-      "user_address": {
-        "address_street": "default street 2",
-        "address_district": "default district 2",
-        "address_number": "2",
-        "address_country": "default country 2",
-        "address_state": "default state 2",
-        "address_city": "default city 2"
-      }
-    },
-    {
-      "user_id": 3,
-      "user_name": "Default user 3",
-      "user_phone_number": "11 5555 6666",
-      "user_created_at_formated": "2022-8-22 18:31",
-      "user_created_at": {
-        "day": 22,
-        "month": 8,
-        "year": 2022,
-        "hour": 18,
-        "minute": 31
-      },
-      "user_updated_at_formated": "2022-8-22 18:31",
-      "user_updated_at": {
-        "day": 22,
-        "month": 8,
-        "year": 2022,
-        "hour": 18,
-        "minute": 31
-      },
-      "user_address_id": 3,
-      "user_address": {
-        "address_street": "default street 3",
-        "address_district": "default district 3",
-        "address_number": "3",
-        "address_country": "default country 3",
-        "address_state": "default state 3",
-        "address_city": "default city 3"
-      }
+    "linkedin_info": {
+      "name": "Matheus Eduardo",
+      "url": "https://www.linkedin.com/in/matheusetp/"
     }
-  ],
-  "message": ""
-}
+  }
+]
